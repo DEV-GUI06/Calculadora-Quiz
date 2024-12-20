@@ -116,3 +116,9 @@ button {
     flex-direction: column;
     align-items: center;
 }
+
+footer{
+    text-align: center;
+    color: #ffffff;
+}
+
